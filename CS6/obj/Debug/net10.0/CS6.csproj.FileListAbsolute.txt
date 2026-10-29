@@ -1,0 +1,14 @@
+c:\Users\yojah\Downloads\CSshark\CS6\bin\Debug\net10.0\CS6.exe
+c:\Users\yojah\Downloads\CSshark\CS6\bin\Debug\net10.0\CS6.deps.json
+c:\Users\yojah\Downloads\CSshark\CS6\bin\Debug\net10.0\CS6.runtimeconfig.json
+c:\Users\yojah\Downloads\CSshark\CS6\bin\Debug\net10.0\CS6.dll
+c:\Users\yojah\Downloads\CSshark\CS6\bin\Debug\net10.0\CS6.pdb
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.AssemblyInfoInputs.cache
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.AssemblyInfo.cs
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.csproj.CoreCompileInputs.cache
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.dll
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\refint\CS6.dll
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.pdb
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\CS6.genruntimeconfig.cache
+c:\Users\yojah\Downloads\CSshark\CS6\obj\Debug\net10.0\ref\CS6.dll
