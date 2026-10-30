@@ -1,0 +1,14 @@
+c:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.AssemblyInfoInputs.cache
+c:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.AssemblyInfo.cs
+c:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.csproj.CoreCompileInputs.cache
+C:\Users\yojah\Downloads\CSshark\CS7\bin\Debug\net10.0\CS7.exe
+C:\Users\yojah\Downloads\CSshark\CS7\bin\Debug\net10.0\CS7.deps.json
+C:\Users\yojah\Downloads\CSshark\CS7\bin\Debug\net10.0\CS7.runtimeconfig.json
+C:\Users\yojah\Downloads\CSshark\CS7\bin\Debug\net10.0\CS7.dll
+C:\Users\yojah\Downloads\CSshark\CS7\bin\Debug\net10.0\CS7.pdb
+C:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.dll
+C:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\refint\CS7.dll
+C:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.pdb
+C:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\CS7.genruntimeconfig.cache
+C:\Users\yojah\Downloads\CSshark\CS7\obj\Debug\net10.0\ref\CS7.dll
